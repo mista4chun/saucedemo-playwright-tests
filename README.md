@@ -85,4 +85,4 @@ Defects found during manual testing are tracked as GitHub Issues in the [manual 
 
 ## Author
 
-YOUR NAME
+HILARY SAMSON
